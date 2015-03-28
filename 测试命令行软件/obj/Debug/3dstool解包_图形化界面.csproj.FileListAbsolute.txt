@@ -1,0 +1,16 @@
+E:\Mai.Yi\测试命令行软件\测试命令行软件\obj\Debug\3dstool解包_图形化界面.csprojResolveAssemblyReference.cache
+E:\Mai.Yi\测试命令行软件\测试命令行软件\obj\Debug\测试命令行软件.Form1.resources
+E:\Mai.Yi\测试命令行软件\测试命令行软件\obj\Debug\3dstool解包_图形化界面.csproj.GenerateResource.Cache
+E:\Mai.Yi\测试命令行软件\测试命令行软件\bin\Debug\GUI-3dstool.exe
+E:\Mai.Yi\测试命令行软件\测试命令行软件\bin\Debug\GUI-3dstool.pdb
+E:\Mai.Yi\测试命令行软件\测试命令行软件\obj\Debug\GUI.Properties.Resources.resources
+E:\Mai.Yi\测试命令行软件\测试命令行软件\obj\Debug\GUI-3dstool.exe
+E:\Mai.Yi\测试命令行软件\测试命令行软件\obj\Debug\GUI-3dstool.pdb
+E:\Mai.Yi\GUI-3dstool\测试命令行软件\obj\Debug\GUI-3dstool.exe
+E:\Mai.Yi\GUI-3dstool\测试命令行软件\obj\Debug\GUI-3dstool.pdb
+E:\Mai.Yi\GUI-3dstool\测试命令行软件\bin\Debug\GUI-3dstool.exe
+E:\Mai.Yi\GUI-3dstool\测试命令行软件\bin\Debug\GUI-3dstool.pdb
+E:\Mai.Yi\GUI-3dstool\测试命令行软件\obj\Debug\3dstool解包_图形化界面.csprojResolveAssemblyReference.cache
+E:\Mai.Yi\GUI-3dstool\测试命令行软件\obj\Debug\测试命令行软件.Form1.resources
+E:\Mai.Yi\GUI-3dstool\测试命令行软件\obj\Debug\GUI.Properties.Resources.resources
+E:\Mai.Yi\GUI-3dstool\测试命令行软件\obj\Debug\3dstool解包_图形化界面.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+E:\Mai.Yi\测试命令行软件\测试命令行软件\obj\Debug\测试命令行软件.csprojResolveAssemblyReference.cache
+E:\Mai.Yi\测试命令行软件\测试命令行软件\obj\Debug\测试命令行软件.Form1.resources
+E:\Mai.Yi\测试命令行软件\测试命令行软件\obj\Debug\测试命令行软件.csproj.GenerateResource.Cache
+E:\Mai.Yi\测试命令行软件\测试命令行软件\bin\Debug\测试命令行软件.exe
+E:\Mai.Yi\测试命令行软件\测试命令行软件\bin\Debug\测试命令行软件.pdb
+E:\Mai.Yi\测试命令行软件\测试命令行软件\obj\Debug\测试命令行软件.Properties.Resources.resources
+E:\Mai.Yi\测试命令行软件\测试命令行软件\obj\Debug\测试命令行软件.exe
+E:\Mai.Yi\测试命令行软件\测试命令行软件\obj\Debug\测试命令行软件.pdb
